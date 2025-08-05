@@ -25,7 +25,7 @@ Currently, I work as a Consultant at Thoughtworks, where I contribute to high-im
 
 ### 🛠️ Tech Stack
 
-
+<div style="display: flex">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"  style="margin: 0 10px"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"  style="margin: 0 10px"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"  style="margin: 0 10px"/> 
@@ -39,6 +39,7 @@ Currently, I work as a Consultant at Thoughtworks, where I contribute to high-im
 <img src="https://testing-library.com/img/octopus-64x64.png" height="30" style="margin: 0 10px;" title="React Testing Library" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30"  style="margin: 0 10px"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"  style="margin: 0 10px"/> 
+</div>
 
 
 
